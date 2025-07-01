@@ -1,10 +1,10 @@
 # Pokémon Stats Visualizer 🐉📊
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=flat-square)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo?style=flat-square)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/trampoline22758/Totally-safe-pokemon-comparison?style=flat-square)
 ![License: Unlicense](https://img.shields.io/badge/License-Unlicense-blue?style=flat-square)
-![Lines of Code](https://img.shields.io/tokei/lines/github/yourusername/yourrepo?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?style=flat-square)
+![Lines of Code](https://img.shields.io/tokei/lines/github/trampoline22758/Totally-safe-pokemon-comparison?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/trampoline22758/Totally-safe-pokemon-comparison?style=flat-square)
 
 ---
 
